@@ -24,5 +24,5 @@ Daily wage earners
 Small business owners
 Women in rural communities
 Individuals with limited access to traditional financial services
-Technologies Used:
+
 
